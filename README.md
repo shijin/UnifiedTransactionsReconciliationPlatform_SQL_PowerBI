@@ -109,5 +109,5 @@ This project demonstrates how SQL and Power BI can be combined to solve a critic
 - Business insights via dashboards.
 It’s a showcase of applying data analytics skills to real-world financial operations.
 
-## Project By: Shijin Ramesh
-Data Analyst
+## Project By
+Shijin Ramesh | Data Analyst
