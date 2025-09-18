@@ -34,13 +34,13 @@ Traditional manual reconciliation is inefficient and fails to give real-time vis
   - Exception explorer with drilldown
   - Customer-level reconciliation matrix
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - Snowflake → Cloud data warehouse, SQL stored procedures
 - Power BI → Data modeling, DAX, dashboards
 - Excel/CSV → Sample datasets (customers, invoices, payments)
 
-## ⚙️ Implementation Phases
+## Implementation Phases
 ### Phase 1 – Rules & Acceptance Criteria
 - Defined reconciliation rules: Matched, Partial, Overpaid, Unpaid.
 
